@@ -11,25 +11,28 @@ The "FIFA 18 Player Rating Dashboard - Power BI" project is an interactive data 
 **Key Features**
 
 **1. World Map**
-Showcasing player distribution across countries.
-Identify regions with high-rated players and discover emerging talents.
+1) Showcasing player distribution across countries.
+2) Identify regions with high-rated players and discover emerging talents.
 
 **2. Top Clubs Rating-wise**
-Explore the ratings of top clubs in FIFA 18.
-Analyze how different clubs compare in terms of player ratings.
+1) Explore the ratings of top clubs in FIFA 18.
+2) Analyze how different clubs compare in terms of player ratings.
 
 **3. Age-wise Rating**
-Examine player ratings based on age groups.
-Discover how performance varies across different age categories.
+1) Examine player ratings based on age groups.
+2) Discover how performance varies across different age categories.
 
 **4. Ribbon Chart Comparing Skills**
-Compare player skills and attributes using interactive ribbon charts.
-Understand the distribution of skills among FIFA 18 players.
+1) Compare player skills and attributes using interactive ribbon charts.
+2) Understand the distribution of skills among FIFA 18 players.
 
 **5. Most Players Producing Country**
-Identify the countries that produce the most FIFA 18 players.
-Gain insights into the nations contributing significantly to the game.
+1) Identify the countries that produce the most FIFA 18 players.
+2) Gain insights into the nations contributing significantly to the game.
 
 **6. Filters**
-Use filters to customize your analysis by nationality, player name, and club.
-Tailor the dashboard to meet your specific interests and criteria.
+1) Use filters to customize your analysis by nationality, player name, and club.
+2) Tailor the dashboard to meet your specific interests and criteria.
+
+**Acknowledgments**
+Special thanks to the Power BI team for providing an excellent platform for data visualization and analysis.
